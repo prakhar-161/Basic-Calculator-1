@@ -51,6 +51,10 @@ button{
     border: 1px solid #200c40e0;
 }
 
+button:hover{
+    background-color: #9c8e8e;
+}
+
 /* .footer{
     text-align: end;
     font-weight: bolder;
